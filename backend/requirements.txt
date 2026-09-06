@@ -1,2 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+psycopg2-binary
+rasterio
